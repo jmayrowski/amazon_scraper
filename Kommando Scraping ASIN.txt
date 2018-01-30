@@ -1,0 +1,1 @@
+for (var i=0;i<2000;i++) try{console.log (document.getElementById("result_"+i).getAttribute("data-asin"));}catch(e){}
